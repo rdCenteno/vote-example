@@ -1,0 +1,10 @@
+{
+  "name": "vote-example",
+  "version": "1.0.0",
+  "description": "Vote-Example",
+  "main": "index.js",
+  "repository": "https://github.com/rdCenteno/vote-example.git",
+  "author": "ronnydemera@gmail.com",
+  "license": "MIT",
+  "private": false
+}
