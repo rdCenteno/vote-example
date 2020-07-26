@@ -46,6 +46,6 @@ contract Ballot {
     }
 
     function getUsersCount() public view returns(uint256) {
-        usersAccounts.length;
+        return usersAccounts.length;
     }
 }
