@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "ganache-cli": "6.9.1",
-    "truffle": "5.1.33"
+    "truffle": "5.1.33",
+    "web3": "1.2.11"
   }
 }
